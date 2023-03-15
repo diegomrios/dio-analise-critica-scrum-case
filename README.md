@@ -13,7 +13,7 @@ No entanto, em agosto de 2010, já havendo gasto US$ 405 milhões do orçamento 
 
 Ainda em 2010, o recente diretor de tecnologia (CTO), com experiência no gerenciamento de organizações usando Scrum, decidiu mudar a abordagem do Sentinel.
 
-A nova abordagem simplificou os processos de tomada de decisão, reduziu a equipe de 400 para 45 pessoas, fornecia novas funcionalidades a cada 30 dias utilizando apenas o orçamento remnescente e conclusão total do projeto em apenas 12 meses. 
+A nova abordagem simplificou os processos de tomada de decisão, reduziu a equipe de 400 para 45 pessoas, fornecia novas funcionalidades a cada 30 dias utilizando apenas o orçamento remanescente e conclusão total do projeto em apenas 12 meses. 
 
 Após um ano de recomeço do projeto, novembro de 2011, todas as fases do Sentinel foram concluídas, com orçamento de US$ 30 milhões.
 
@@ -21,7 +21,7 @@ Após um ano de recomeço do projeto, novembro de 2011, todas as fases do Sentin
 
 O referido estudo de caso nos faz refletir sobre os aspectos e benefícios de uma cultura e metodologias ágeis em contextos VUCA (Volatilidade, incerteza, Complexidade e Ambiguidade).
 
-As entragas por Sprints (a cada 30 dias) evidencia a aplicação prática de um dos 5 eventos da framework Scrum proporcionando maior flexibilidade, entrega contínua com valor agregado e adaptação as mudanças (um dos seus 3 pilares: Transparência, Inspeção e Adaptação). 
+As entregas por Sprints (a cada 30 dias) evidencia a aplicação prática de um dos 5 eventos da framework Scrum proporcionando maior flexibilidade, entrega contínua com valor agregado e adaptação as mudanças (um dos seus 3 pilares: Transparência, Inspeção e Adaptação). 
 
 A implementação de uma equipe enxuta e com responsabilidades claras em projetos complexos proporciona uma melhor eficácia da comunicação bem como a propensão de um ambiente mais colaborativo e produtivo. Podemos perceber aqui valores da metodologia ágil como Indivíduos e interações mais que processos e ferramentas assim como Software em funcionamento mais que documentação abrangente quando inicialmente as entregas não geraram tanto valor quanto foi previsto. 
 
